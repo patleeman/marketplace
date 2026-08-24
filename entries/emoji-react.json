@@ -2,7 +2,9 @@
   "id": "emoji-react",
   "displayName": "Emoji React",
   "description": "Adds configurable emoji reactions to the text-selection menu and per-message action bar that draft a quoted reply.",
-  "icon": "Heart",
+  "icon": {
+    "url": "./icons/emoji-react-cb1b7426.svg"
+  },
   "tags": ["emoji", "reactions", "chat", "interface"],
   "author": {
     "name": "Patrick Lee",
